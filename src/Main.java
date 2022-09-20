@@ -4,6 +4,5 @@ public class Main {
         System.out.println("Hello world!");
 =======
         System.out.println("Привет, мир!");
->>>>>>> d264467 (Поменяли вывод)
     }
 }
